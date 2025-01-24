@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5987,7 +5987,7 @@
 			"md5": "9fdd1b6be53c22f249c34dac54db51ec"
 		},
 		"src/NES/tracking.js": {
-			"md5": "2a68576eb5c94a6e9cb56c09c97507ca"
+			"md5": "626c13613ab60ba2ead52fdc33f847fd"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "1507e10a90a8d5be632cf37871cdf201"
