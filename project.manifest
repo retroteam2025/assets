@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"version" : "3",
+	"version" : "4",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5750,7 +5750,7 @@
 			"md5": "c5baff16c800c46b817947c5d6d1ec0b"
 		},
 		"src/framework/plugins/Admob.js": {
-			"md5": "e95371ba00ce77417e612c43a98a773c"
+			"md5": "a19f296d49a19d4ae49742f1909709a0"
 		},
 		"src/framework/plugins/Appflyer.js": {
 			"md5": "08d6c3293894bbabffbb8caf55e5c77c"
