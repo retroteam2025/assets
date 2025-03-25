@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"version" : "5",
+	"version" : "7",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -5888,7 +5888,7 @@
 			"md5": "a31da1a99ea45eb98469ef5f66b20d2b"
 		},
 		"src/NES/Game/GameLayerN64.js": {
-			"md5": "0f46fd6f22f260f14c6d229f78bc5079"
+			"md5": "6f4545f07ee0d436438e0b5db53a6414"
 		},
 		"src/NES/Game/GameLayerSNK.js": {
 			"md5": "6beebceb3b1faa30ae2f8222c4b75ed2"
@@ -5906,7 +5906,7 @@
 			"md5": "8fcc02c46e18537591eb984c9b7d722a"
 		},
 		"src/NES/Home/Home.js": {
-			"md5": "d83c12f3701013bdaed3a809aefc0f22"
+			"md5": "b1881657750df0d93d61301bce494e3b"
 		},
 		"src/NES/Home/InfoRomLayer.js": {
 			"md5": "67182ae8146e99382ea2714130bfa96e"
@@ -5942,7 +5942,7 @@
 			"md5": "913c38c0de64e54b35230404def9328d"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "e18ab37702f9a8eb96dbcd1972e4efd6"
+			"md5": "0ef5bec756449874df16497c119a5e69"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "273880114c81760efaed38e8f85516b4"
