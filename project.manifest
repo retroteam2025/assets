@@ -4,14 +4,14 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"version" : "8",
+	"version" : "10",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "fc14e0bb260e055481ca964ff1c93f78"
 		},
 		"main.js": {
-			"md5": "b0b023757f10fbe07da3bee7101216ba"
+			"md5": "b196cc901348b9adad3b698a4256fd3c"
 		},
 		"project.json": {
 			"md5": "68e319171a36569a1defde2362a814c1"
@@ -2189,7 +2189,7 @@
 			"md5": "dd6210d9a99bfe027aeb10d47399227c"
 		},
 		"res/db_config/default.json": {
-			"md5": "a92e83f85c3ae448fdd203afb2896441"
+			"md5": "831e82f3b6360399b9b0f50b536444dd"
 		},
 		"res/db_gba.txt": {
 			"md5": "8985da8c962eecf1712adc7448dd3640"
@@ -5750,7 +5750,7 @@
 			"md5": "c5baff16c800c46b817947c5d6d1ec0b"
 		},
 		"src/framework/plugins/Admob.js": {
-			"md5": "a19f296d49a19d4ae49742f1909709a0"
+			"md5": "004b990dff9cf95d0b3c179e0cbed070"
 		},
 		"src/framework/plugins/Appflyer.js": {
 			"md5": "08d6c3293894bbabffbb8caf55e5c77c"
@@ -5840,7 +5840,7 @@
 			"md5": "9b97195c02e17181e03c523fa4e4c92c"
 		},
 		"src/NES/adsMgr.js": {
-			"md5": "5d971821f7d9f0811e8ec732f90c7b1f"
+			"md5": "f551e0183f50bf84900592baefe425a9"
 		},
 		"src/NES/Constant.js": {
 			"md5": "8de7d5d25eb4a3eda207d3922a6fdd27"
@@ -5900,7 +5900,7 @@
 			"md5": "e7673fd189daa1fde7fccef1e394ad1e"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "2b2c15e5072a8715904e96e3e756649f"
+			"md5": "c832857147b5c336e8218622d72ded20"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "8fcc02c46e18537591eb984c9b7d722a"
