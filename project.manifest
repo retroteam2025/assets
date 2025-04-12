@@ -11,7 +11,7 @@
 			"md5": "fc14e0bb260e055481ca964ff1c93f78"
 		},
 		"main.js": {
-			"md5": "b196cc901348b9adad3b698a4256fd3c"
+			"md5": "55dea500718ee4e66761a03bcf99b004"
 		},
 		"project.json": {
 			"md5": "68e319171a36569a1defde2362a814c1"
@@ -5705,7 +5705,7 @@
 			"md5": "cf0e292167fb14b18fb2019dd34ad04c"
 		},
 		"src/framework/Framework.js": {
-			"md5": "cd72a9c0f07901e63c09404f148f205d"
+			"md5": "ed5edddd27ae5a17c94441194cdd1267"
 		},
 		"src/framework/gui/Avatar.js": {
 			"md5": "24729170e5c1c2af077dbca2b4071f80"
@@ -5771,7 +5771,7 @@
 			"md5": "198337600326da10e82a5ff046f398e3"
 		},
 		"src/framework/plugins/Google.js": {
-			"md5": "0787728e76ef930f9c866ed0496839db"
+			"md5": "bdfd0a7aac7a2acca08c4fe3698415ef"
 		},
 		"src/framework/plugins/IronSource.js": {
 			"md5": "86d65839dfe8137b3f3d6e1d4bb13c85"
@@ -5900,7 +5900,7 @@
 			"md5": "e7673fd189daa1fde7fccef1e394ad1e"
 		},
 		"src/NES/gamedata.js": {
-			"md5": "d253832bf399cdebd286b369ba912545"
+			"md5": "8c60fec4e3bb5d0ae8b5100550027d89"
 		},
 		"src/NES/Home/FindROMLayer.js": {
 			"md5": "8fcc02c46e18537591eb984c9b7d722a"
