@@ -4,14 +4,14 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"version" : "11",
+	"version" : "12",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
 			"md5": "fc14e0bb260e055481ca964ff1c93f78"
 		},
 		"main.js": {
-			"md5": "55dea500718ee4e66761a03bcf99b004"
+			"md5": "8e8ca571e102a3b2088af24688a7a1ee"
 		},
 		"project.json": {
 			"md5": "68e319171a36569a1defde2362a814c1"
@@ -5156,7 +5156,7 @@
 			"md5": "2e416da44875e3d3142d95d5be0bb6e4"
 		},
 		"res/UI/RomCell.json": {
-			"md5": "788fa6871bd14861286e85042769a9ff"
+			"md5": "f2e4c8fec07fe2c033c324494f2ede28"
 		},
 		"res/UI/RomCell_Single.json": {
 			"md5": "568695dd481e8f79d4a194339eec84a8"
