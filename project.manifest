@@ -5231,7 +5231,7 @@
 			"md5": "e74a7323578ad0c909a7d52dad290af4"
 		},
 		"res/UI/StartupScene.json": {
-			"md5": "c755ade2c92fa7cacc2bfa1ed22f6e16"
+			"md5": "fbe005aa68c5217327e917cd480a0a10"
 		},
 		"res/UI/StartupScene_ArcadeGames.json": {
 			"md5": "77da311e5030308776ffd75242ec5d56"
@@ -5294,7 +5294,7 @@
 			"md5": "cc0e1b5a3aa29a073779649d548eb316"
 		},
 		"res/UI/StartupScene_Retro64.json": {
-			"md5": "b9ae45d3e627a5aff292382459d9857d"
+			"md5": "2c42298e783d1a6ecd8c983347ed7ece"
 		},
 		"res/UI/StartupScene_Retro64_All.json": {
 			"md5": "4e0a5a4cc732dc31d30cfa5f17efec16"
