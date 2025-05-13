@@ -1,10 +1,10 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v2.0.0/",
-	"version" : "12",
+	"packageUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/",
+	"version" : "1",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "dd6210d9a99bfe027aeb10d47399227c"
 		},
 		"res/db_config/default.json": {
-			"md5": "831e82f3b6360399b9b0f50b536444dd"
+			"md5": "b444f6583eaff17cbd7aa1068f626a95"
 		},
 		"res/db_gba.txt": {
 			"md5": "8985da8c962eecf1712adc7448dd3640"
@@ -5234,7 +5234,7 @@
 			"md5": "fbe005aa68c5217327e917cd480a0a10"
 		},
 		"res/UI/StartupScene_ArcadeGames.json": {
-			"md5": "77da311e5030308776ffd75242ec5d56"
+			"md5": "d02b7b74d4ab9af8520c36a978877de1"
 		},
 		"res/UI/StartupScene_BattleCity.json": {
 			"md5": "1fbf76a3ae35404cbbc152d60ae054e3"
@@ -5780,7 +5780,7 @@
 			"md5": "f044e62b6c80c89b5c6a6d8e7ab9d1c4"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "ca2732c0c596fbf60a67a1493ccd0ac7"
+			"md5": "d7890df62df85b8bcf6b1e723c37178f"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "851e481f90990e417554b8290db26b97"
@@ -5915,22 +5915,22 @@
 			"md5": "7b0b8cbfef732444bce4e7637d92add8"
 		},
 		"src/NES/Home/ListRomGBALayer.js": {
-			"md5": "8c5aa69e2dd84ab9d98bbcb8e5cf7ab1"
+			"md5": "214fe4079e3a6e5f971e9c5e0ceaa217"
 		},
 		"src/NES/Home/ListRomLayer.js": {
-			"md5": "9cb0441eae1b9c11504d38dad4e72e36"
+			"md5": "c2edb27ec72c2447b543e55f5ac3d393"
 		},
 		"src/NES/Home/ListRomMAME.js": {
-			"md5": "074eced2cc03b989366e7b185dff1630"
+			"md5": "482009e9936f3e52cc7cf1abd5139c91"
 		},
 		"src/NES/Home/ListRomN64Layer.js": {
-			"md5": "1bf052662766a7126f62919f3975100f"
+			"md5": "2f17f70ec5156ea5c620f178f1e376ce"
 		},
 		"src/NES/Home/ListRomSNESLayer.js": {
-			"md5": "d39b8fec12e322169a85f8a9b40a021c"
+			"md5": "83a0f6453deec41ed5e987d3c24f68a4"
 		},
 		"src/NES/Home/MenuLayer.js": {
-			"md5": "bd4a58ac8975aa141499d8dec548d57d"
+			"md5": "35b903c76c187e85ec3942f4b7b147bc"
 		},
 		"src/NES/Home/Promo/PromoLayer.js": {
 			"md5": "372cca83d8e218e390d39acfd4e9fe39"
@@ -5987,7 +5987,7 @@
 			"md5": "9fdd1b6be53c22f249c34dac54db51ec"
 		},
 		"src/NES/tracking.js": {
-			"md5": "626c13613ab60ba2ead52fdc33f847fd"
+			"md5": "2e5d06174ebd7a1dbc7b4994f9ccc6aa"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "1507e10a90a8d5be632cf37871cdf201"
