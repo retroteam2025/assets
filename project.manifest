@@ -1,10 +1,10 @@
 {
-	"packageUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/",
-	"remoteManifestUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/project.manifest",
-	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/version.manifest",
-	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/download.manifest",
-	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/v3.0.0/",
-	"version" : "3",
+	"packageUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/",
+	"version" : "1",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "dd6210d9a99bfe027aeb10d47399227c"
 		},
 		"res/db_config/default.json": {
-			"md5": "40db3f8ea15eb188c658f9df6263b8be"
+			"md5": "c438b6c3ba1abbf07f12f8232a1774c5"
 		},
 		"res/db_gba.txt": {
 			"md5": "8985da8c962eecf1712adc7448dd3640"
@@ -5780,7 +5780,7 @@
 			"md5": "f044e62b6c80c89b5c6a6d8e7ab9d1c4"
 		},
 		"src/framework/plugins/PlatformWrapper.js": {
-			"md5": "d7890df62df85b8bcf6b1e723c37178f"
+			"md5": "bc008420840709fe29ae0b705f8c6a0f"
 		},
 		"src/framework/plugins/Portal.js": {
 			"md5": "851e481f90990e417554b8290db26b97"
@@ -5987,7 +5987,7 @@
 			"md5": "9fdd1b6be53c22f249c34dac54db51ec"
 		},
 		"src/NES/tracking.js": {
-			"md5": "aee67d66e03554c2fd013ff063b5a65d"
+			"md5": "a08643067184aae546be427e9832deb1"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "1507e10a90a8d5be632cf37871cdf201"
