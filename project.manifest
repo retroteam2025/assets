@@ -2189,7 +2189,7 @@
 			"md5": "dd6210d9a99bfe027aeb10d47399227c"
 		},
 		"res/db_config/default.json": {
-			"md5": "c438b6c3ba1abbf07f12f8232a1774c5"
+			"md5": "78a050c88577242e2e094cd46a3e1b36"
 		},
 		"res/db_gba.txt": {
 			"md5": "8985da8c962eecf1712adc7448dd3640"
@@ -5302,6 +5302,9 @@
 		"res/UI/StartupScene_RetroGame_NQC.json": {
 			"md5": "95625e7dc54cd7c7f30f5e8c99a2545a"
 		},
+		"res/UI/StartupScene_RetroHub.json": {
+			"md5": "ba746ce1973bac40baa86c4eb70ae56d"
+		},
 		"res/UI/StartupScene_SNK.json": {
 			"md5": "f045078e94f629749dbf750221a9f9b1"
 		},
@@ -5942,7 +5945,7 @@
 			"md5": "913c38c0de64e54b35230404def9328d"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "0ef5bec756449874df16497c119a5e69"
+			"md5": "ce84330c0409835bc4b59c1fae5b3939"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "273880114c81760efaed38e8f85516b4"
