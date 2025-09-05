@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/retroteam2025/assets/vjctory.v1.0/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -2189,7 +2189,7 @@
 			"md5": "dd6210d9a99bfe027aeb10d47399227c"
 		},
 		"res/db_config/default.json": {
-			"md5": "cc29e6fb6e2fdb2fcfe2aad06eac5bca"
+			"md5": "a47c7318e92851ef9521b02e233c7fab"
 		},
 		"res/db_gba.txt": {
 			"md5": "8985da8c962eecf1712adc7448dd3640"
@@ -5990,7 +5990,7 @@
 			"md5": "9fdd1b6be53c22f249c34dac54db51ec"
 		},
 		"src/NES/tracking.js": {
-			"md5": "9c2625793b7b18a06be1e9f7d5974b0f"
+			"md5": "cd409534c0c4b9507c3fd40515ebd862"
 		},
 		"src/NES/UI/BaseLayer.js": {
 			"md5": "1507e10a90a8d5be632cf37871cdf201"
